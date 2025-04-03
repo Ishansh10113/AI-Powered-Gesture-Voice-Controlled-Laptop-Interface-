@@ -1,0 +1,2 @@
+# AI-Powered-Gesture-Voice-Controlled-Laptop-Interface-
+Gesture &amp; Voice Controlled Laptop Interface 🖐️🎤 | Control your laptop with hand gestures &amp; voice commands! Move the cursor, click, scroll, adjust volume/brightness, and manage windows seamlessly. Built with Python, OpenCV, MediaPipe &amp; PyAutoGUI. Future plans: custom gestures, AR integration &amp; gaming mode! 🎮🔮 [Clone &amp; Try Now!]
